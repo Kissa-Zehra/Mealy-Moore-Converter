@@ -45,7 +45,7 @@ MachineConverter/
 ---
 
 ## 📸 Demo (Example Run)
-\`\`\`
+```
 *************************************************
            WELCOME TO MACHINE CONVERTER
 *************************************************
@@ -54,7 +54,7 @@ ENTER:
   1: Mealy to Moore
   2: Moore to Mealy
   3: Exit
-\`\`\`
+```
 
 ---
 
